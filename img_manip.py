@@ -1,7 +1,6 @@
 # FUNKCIJE ZA MANIPULACIJU SLIKA
 
 import numpy
-from numpy.typing import NDArray
 
 
 def bw_transform(frame, granica: int = 200):
